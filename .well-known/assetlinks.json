@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.slorandfpa_lab.twa",
-        "sha256_cert_fingerprints": ["16:53:5E:4E:4E:9B:3C:A7:09:5B:FE:D8:22:03:BD:BC:F5:C9:70:44:AD:5A:D8:03:DC:FC:01:A0:7C:B0:7E:87"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.slorandfpa_lab.twa",
+    "sha256_cert_fingerprints": ["54:77:31:EE:77:6C:26:3A:D5:5E:97:E4:33:B4:F9:15:5F:16:19:9E:B6:6F:A1:CB:1F:9A:39:91:BD:B3:70:44"]
+  }
+}]
